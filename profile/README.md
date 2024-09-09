@@ -21,7 +21,7 @@ Click the "Deploy on FlexStack" button in any app repository to:
 
 <a href="https://flexstack.com/deploy/apps"><img src="https://flexstack.com/deploy-on-flexstack.svg" height=40/></a>
 
-Alternatively, you can clone any of the repos here and deploy them later by linking them to a FlexStack project.
+Alternatively, you can clone any of the repos here and deploy later by linking them to a FlexStack project.
 
 ### Before you clone
 
