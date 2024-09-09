@@ -3,7 +3,7 @@
 ## FlexStack 1-Click Apps
 
 Build and deploy serverless apps on AWS with unrivaled ease.<br/>
-FlexStack is a cloud native alternative to platforms like Render, Vercel, and Heroku.
+[FlexStack](https://flexstack.com) is a cloud native alternative to platforms like Render, Vercel, and Heroku.
 
 ### Philosophy
 
@@ -12,7 +12,7 @@ FlexStack is a cloud native alternative to platforms like Render, Vercel, and He
 - If it runs on my computer, it runs on your computer
 - If you understand one developer environment, you understand all environments
 
-### Prerequisites
+### Get started
 
 Our curated apps use [mise](https://mise.jdx.dev/about.html) to run tasks, manage tool versions, 
 and manage environment variables.
