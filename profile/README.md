@@ -1,6 +1,4 @@
-<img src="https://flexstack.com/favicon.svg" width=64/>
-
-## FlexStack 1-Click Apps
+<h2><img src="https://flexstack.com/favicon.svg" height=20 alt=""/> FlexStack 1-Click Apps</h2>
 
 Build and deploy serverless apps on AWS with unrivaled ease.<br/>
 [FlexStack](https://flexstack.com) is a cloud native alternative to platforms like Render, Vercel, and Heroku.
