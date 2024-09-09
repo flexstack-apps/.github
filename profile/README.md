@@ -10,7 +10,7 @@ Build and deploy serverless apps on AWS with unrivaled ease.<br/>
 - Use high quality tooling, not too much, mostly Rust-based
 - Obey the [12-factor methodology](https://12factor.net/)
 - If it runs on my computer, it runs on your computer
-- If you understand one developer environment, you understand all environments
+- If you understand one development environment, you understand all environments
 
 ### Deploy on FlexStack
 
