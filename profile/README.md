@@ -18,7 +18,7 @@ Click the "Deploy on FlexStack" button in any app repository to:
 - Clone the repo to your a linked GitHub account
 - Deploy the app to your own AWS account
 
-<a href="https://flexstack.com/apps"><img src="https://flexstack.com/deploy-on-flexstack.svg" height=40/></a>
+<a href="https://flexstack.com/deploy"><img src="https://flexstack.com/deploy-on-flexstack.svg" height=40/></a>
 
 Alternatively, you can clone any of the repos here and deploy later by linking them to a FlexStack project.
 
